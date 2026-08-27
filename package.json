@@ -1,0 +1,9 @@
+{
+  "name": "garde-cardio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Rôle de garde — service de cardiologie",
+  "dependencies": {
+    "@netlify/blobs": "^11.0.1"
+  }
+}
